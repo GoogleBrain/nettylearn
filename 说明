@@ -1,0 +1,20 @@
+编译proto文件时使用的protoc.exe一定要和protobuf-java 版本一致； 
+
+com.phei.netty.codec.protobuf 序列化；
+
+com.sun.client  基本的客户端；
+
+com.sun.client.delimiter  分隔符读半包；
+
+com.sun.connlong 长连接；
+
+com.sun.file 列出目录下的文件
+
+com.sun.server.fixed  固定长度读半包；
+
+com.sun.messagepacklearn messagepack样例
+
+com.sun.messagepackwithnetty messagepack 序列化；
+
+
+
